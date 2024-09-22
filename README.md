@@ -1,6 +1,9 @@
 # Backend .NET Developer Roadmap
 
-Welcome to the **Backend .NET Developer Roadmap**! This repository is a curated list of the best free Arabic resources for learning backend development with the .NET stack. Follow the phases outlined below, and choose the courses and materials that best suit your learning style.
+Hello! I'm excited to share my personal roadmap for becoming a **Backend .NET Developer**. This repository features a carefully curated collection of the best free Arabic resources for learning backend development with the .NET stack. The roadmap is organized into phases to guide you step-by-step through your learning journey. 
+
+Feel free to explore the materials and select the courses that suit your learning style. If you have any suggestions or would like to provide feedback, don't hesitate to contact me at a7medmo25@gmail.com.
+
 
 ## Phase 1: Basics
 ### Database / SQL Server
