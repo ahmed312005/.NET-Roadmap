@@ -5,16 +5,12 @@ Hello! I'm excited to share my personal roadmap for becoming a **Backend .NET De
 Feel free to explore the materials and select the courses that suit your learning style. If you have any suggestions or would like to provide feedback, don't hesitate to contact me at a7medmo25@gmail.com.
 
 ## Phase 0: Basics
-### Basics
+### Web Basics
 - [Yehia Tech(ASP.NET)](https://youtu.be/hTt-Je4PKmI?si=a6232OJn9m678DYF)
 - [Abdelrahman Gamal(HTML Crash Course)](https://youtu.be/q3yFo-t1ykw?si=hIR_rUKYsXxGV-A_)
 - [Abdelrahman Gamal(CSS Crash Course](https://youtu.be/hTt-Je4PKmI?si=a6232OJn9m678DYF)
 - 
-## Phase 1: Basics
-### Database / SQL Server
-- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
-- [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
+## Phase 1: Track Basics
 ### C#
 - [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR&si=fb-w5dS3XwPl8N7E)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
@@ -24,6 +20,10 @@ Feel free to explore the materials and select the courses that suit your learnin
 - [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75&si=Doy7YZ6XG9rfsIjA)
 - [Metigator from 7 -> 22](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF3s6vZ5ekPcJ1w-7C4Iz2S5)
+### Database / SQL Server
+- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
+- [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 ## Phase 2: Advanced
 ### C# Collections (Generic/Non-generic)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo)
