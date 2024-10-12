@@ -23,7 +23,7 @@ Feel free to explore the materials and select the courses that suit your learnin
 - [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF3s6vZ5ekPcJ1w-7C4Iz2S5)
 ### Advanced
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY)
-- [Metigator from](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo)
 
 ## Phase 2: Database
