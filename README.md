@@ -53,7 +53,7 @@ Feel free to explore the materials and select the courses that suit your learnin
 ### Design Patterns
 - [Metigator](https://youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN&si=dF1mR9D0tKGVemvm)
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR)
-- [ِِArticle](https://refactoring.guru/design-patterns/csharp)
+- [Article](https://refactoring.guru/design-patterns/csharp)
 
 ## Phase 4: Framework
 ### ASP.NET Core MVC
