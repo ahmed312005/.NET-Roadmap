@@ -6,10 +6,10 @@ Feel free to explore the materials and select the courses that suit your learnin
 
 ## Phase 0: Intoducrion
 ### Basics
-- [Yehia Tech (Backend Roadmap)](https://youtu.be/CVgzp2vfePs?si=_zppgfcQ-MOkcPix)
-- [Yehia Tech (ASP.NET)](https://youtu.be/hTt-Je4PKmI?si=a6232OJn9m678DYF)
-- [Abdelrahman Gamal (HTML Crash Course)](https://youtu.be/q3yFo-t1ykw?si=hIR_rUKYsXxGV-A_)
-- [Abdelrahman Gamal (CSS Crash Course)](https://youtu.be/Z-5QVutAEW4?si=v0bUAriyZDltS-3L)
+- [Backend Roadmap](https://youtu.be/CVgzp2vfePs?si=_zppgfcQ-MOkcPix)
+- [What is ASP.NET](https://youtu.be/hTt-Je4PKmI?si=a6232OJn9m678DYF)
+- [HTML Crash Course](https://youtu.be/q3yFo-t1ykw?si=hIR_rUKYsXxGV-A_)
+- [CSS Crash Course](https://youtu.be/Z-5QVutAEW4?si=v0bUAriyZDltS-3L)
 - [Git and GitHub => Big Data course](https://youtu.be/Q6G-J54vgKc?si=smUUMZtCb07epb9K)
 - [Git and GitHub => Elzero course](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=I3ow5bkkMvl2CBih)
 - [OSI Layers](https://youtu.be/A31bxOyj5mk?si=9acUHOjWF7wGW0pb)
