@@ -40,18 +40,20 @@ Feel free to explore the materials and select the courses that suit your learnin
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI)
 - [DevCreed => Eng/Mohamed Elhelaly](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
-- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
+- [Ahmed M9ohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
 
 ## Phase 3: Advanced Topics
 ### Algorithms
 - [Adel Nasim from 24 -> 37](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
 - [KMR Script - More details in Algorithms](https://youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC&si=6ZVmL5yys_zh8qej)
 ### SOLID Principles
+- [Omar Ahmed](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV&si=nssHZQ5H-31mqFoJ)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)
 - [Passionate Coders](https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=EmmWzD2CXg-rYZ1M)
 ### Design Patterns
 - [Metigator](https://youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN&si=dF1mR9D0tKGVemvm)
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR)
+- [ِِArticle](https://refactoring.guru/design-patterns/csharp)
 
 ## Phase 4: Framework
 ### ASP.NET Core MVC
