@@ -64,7 +64,8 @@ Feel free to explore the materials and select the courses that suit your learnin
 - [ITI Recordings - Eng/Christiene Zareef (Highly Recommended)](https://drive.google.com/drive/u/0/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR1lCISZUSWI-3cMJC7Y22yCw0iMgn_0Ra2VuSVnLTCaBWV-13e-CFUbKNg)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 ### ASP.NET Core API
-- [ITI Recordings - Eng Christine Zareef (Highly Recommended)](https://youtube.com/playlist?list=PLesfn4TAj57VzTrrGkOKWbNOOrUCdSQGo&si=IH-GyfrRzYhF-QXY)
+- [ITI Recordings - Eng Christine Zareef (Highly Recommended)](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L&si=sPtxcx5iIzlWvC9h)
+- [مبادرة رودا مصر الرقمية (Highly Recommended)](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 - [Passionate Coders (Still recording)](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
 
 ## Phase 5: Extra
